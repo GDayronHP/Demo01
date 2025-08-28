@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <!--Mi primer comentario-->
+        <!--Mi primer cambio-->
         <TextBlock> Hola mundo </TextBlock>
     </Grid>
 </Window>
